@@ -19,16 +19,16 @@ Client-Server Based Application Utilizing IPC for Seamless Communication
 **8. Server Sends Response**: The server, after obtaining the result from shared memory, sends the calculation result back to the client using Message Queues.
 
 ## File structure
-── app
-│   ├── client
-│   │   ├── include
-│   │   └── src
-│   ├── common
-│   └── server
-│       ├── include
-│       └── src
-├── bin
-├── build
-├── Makefile
-├── README.md
-└── tests
+── app<br />
+│   ├── client<br />
+│   │   ├── include<br />
+│   │   └── src<br />
+│   ├── common<br />
+│   └── server<br />
+│       ├── include<br />
+│       └── src<br />
+├── bin<br />
+├── build<br />
+├── Makefile<br />
+├── README.md<br />
+└── tests<br />
