@@ -23,7 +23,7 @@ Client-Server Based Application Utilizing IPC for Seamless Communication
 │   ├── client<br />
 │   │   ├── include<br />
 │   │   └── src<br />
-│   └── server<br />
+│   ├── server<br />
 │   │   ├── include<br />
 │   │   └── src<br />
 │   └── common<br />
