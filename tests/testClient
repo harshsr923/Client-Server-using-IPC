@@ -1,0 +1,6 @@
+#! /bin/bash
+
+./bin/rc1 & 
+./bin/rc2 & 
+./bin/rc3 & 
+./bin/rc4
