@@ -23,10 +23,10 @@ Client-Server Based Application Utilizing IPC for Seamless Communication
 │   ├── client<br />
 │   │   ├── include<br />
 │   │   └── src<br />
-│   ├── common<br />
 │   └── server<br />
-│       ├── include<br />
-│       └── src<br />
+│   │   ├── include<br />
+│   │   └── src<br />
+│   └── common<br />
 ├── bin<br />
 ├── build<br />
 ├── Makefile<br />
